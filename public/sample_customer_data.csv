@@ -1,0 +1,5 @@
+Name,Email,Phone,Outstanding Amount,Days Overdue,CIBIL Score,Salary,Job Profile,Gender
+Ramesh Gupta,ramesh@example.com,9876543210,50000,45,650,1200000,Software Engineer,Male
+Sita Verma,sita@example.com,9876543211,10000,5,780,800000,Teacher,Female
+Amit Kumar,amit@example.com,9876543212,150000,90,550,500000,Sales Executive,Male
+Priya Singh,priya@example.com,9876543213,2000,0,800,1500000,Manager,Female
